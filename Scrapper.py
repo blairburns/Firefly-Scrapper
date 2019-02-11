@@ -2,7 +2,7 @@ from MechanicalSoup import mechanicalsoup
 
 # init and open connection to webpage
 browser = mechanicalsoup.StatefulBrowser()
-browser.open("https://huntingtower.fireflycloud.net.au/planner")
+browser.open("https://SCHOOL.fireflycloud.net.au/planner")
 
 # Find and complete the login inputs
 browser.select_form()
