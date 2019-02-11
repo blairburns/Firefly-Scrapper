@@ -1,0 +1,29 @@
+{
+    "Year Level": "10",
+    "VCE Computing U1/2 Year 10 S": 
+        {
+            "Lesson": "Computing",
+            "FireFly_Name": "Maths Y10 Core 1",
+            "Lesson_Name": "Computing"
+        },
+    "UP Y10.": 
+        {
+            "Lesson": "UP",
+            "FireFly_Name": "UP Y10.",
+            "Lesson_Name": "UP"
+        },
+    "History Y10.": 
+        {
+            "Lesson": "History",
+            "FireFly_Name": "History Y10.",
+            "Lesson_Name": "History"
+        },
+    "English Y10.": 
+        {
+            "Lesson": "English",
+            "FireFly_Name": "English Y10.",
+            "Lesson_Name": "English"
+        }
+    
+
+}
