@@ -14,3 +14,9 @@ A Flask web app must be running to view the scrapped data
 ## Login
 
 To login, set the parameters in `Scrapper.py` to account details and the correct URL
+
+```
+SCHOOL
+USERNAME
+PASSWORD
+```
