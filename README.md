@@ -9,7 +9,7 @@ Mechanical Soup
 
 ## Setup
 
-A Flask web app must be running to view the scrapped data
+Run `python3 SubjectManager.py` in the termial
 
 ## Login
 
