@@ -3,7 +3,6 @@ Script to scrape data from Firefly school portal. Currently only works with toda
 
 ## Dependencies
 ```
-Flask
 Mechanical Soup
 ```
 
